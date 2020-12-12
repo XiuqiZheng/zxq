@@ -1,0 +1,14 @@
+Package: zxq
+Type: Package
+Title: To 
+Version: 0.1.0
+Author: zxq
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Xiuqi's first package. Including a function to get unemployment rate data from fred, and window backtest function.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Imports: 
+    jsonlite,
+    ggplot2
